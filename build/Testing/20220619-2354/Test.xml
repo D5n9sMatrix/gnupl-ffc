@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Linux-g++"
+	BuildStamp="20220619-2354-Experimental"
+	Name="denis-Inspiron-15-3567"
+	Generator="ctest-3.22.1"
+	CompilerName="/usr/bin/g++"
+	CompilerVersion="11.2.0"
+	OSName="Linux"
+	Hostname="denis-Inspiron-15-3567"
+	OSRelease="5.15.0-39-generic"
+	OSVersion="#42-Ubuntu SMP Thu Jun 9 23:42:32 UTC 2022"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="142"
+	ProcessorCacheSize="3072"
+	NumberOfLogicalCPU="4"
+	NumberOfPhysicalCPU="2"
+	TotalVirtualMemory="979"
+	TotalPhysicalMemory="3698"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="2700"
+	>
+	<Testing>
+		<StartDateTime>Jun 19 20:54 -03</StartDateTime>
+		<StartTestTime>1655682886</StartTestTime>
+		<TestList/>
+		<EndDateTime>Jun 19 20:54 -03</EndDateTime>
+		<EndTestTime>1655682886</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>
